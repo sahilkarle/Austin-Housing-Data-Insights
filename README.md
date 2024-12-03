@@ -1,4 +1,4 @@
-# Austin-Housing-Data-Insights
+# Austin Housing Data Insights
 
 ## Overview
 The Austin Housing Data Insights report provides a comprehensive analysis of the housing market in Austin, Texas, focusing on various metrics that can assist businesses and individuals in understanding real estate trends and property values.
